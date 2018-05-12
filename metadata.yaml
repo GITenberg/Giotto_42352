@@ -1,0 +1,27 @@
+_repo: Giotto_42352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quilter, Harry
+    birthdate: 1851
+    deathdate: 1907
+    gutenberg_agent_id: '41639'
+    url: http://www.gutenberg.org/2009/agents/41639
+description: ''
+gutenberg_issued: '2013-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42352'
+  lccn: 01012558
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Giotto, 1266?-1337'
+- !lcc 'ND'
+title: Giotto
+url: http://www.gutenberg.org/ebooks/42352
